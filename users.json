@@ -1,0 +1,15 @@
+[
+   {
+      "identifier":"ailakks",
+      "github":"ailakks",
+      "about":"Im Ailakks, a 16 years old developer!",
+      "social":[
+         {
+            "identifier":"twitter",
+            "display_name":"Twitter",
+            "description":"Follow me for updates!",
+            "link":"https://twitter.com/Ailakks"
+         }
+      ]
+   }
+]
