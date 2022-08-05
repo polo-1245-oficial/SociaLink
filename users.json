@@ -8,6 +8,7 @@
             "identifier":"twitter",
             "display_name":"Twitter",
             "description":"Follow me for updates!",
+            "new_page":true,
             "link":"https://twitter.com/Ailakks"
          }
       ]
