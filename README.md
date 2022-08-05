@@ -25,6 +25,10 @@ Simple, just make a pull request adding your profile info into de ``users.json``
 
 ``new_page`` (Optional) Should the link opened in a new windows?
 
+# Palette
+
+Currently, only ``main_color`` is available. This will be the color usted for most of the elements of your page.
+
 # Can I use this data?
 
 Sure, is public for everyone.
