@@ -27,7 +27,7 @@ Simple, just make a pull request adding your profile info into de ``users.json``
 
 # Palette
 
-Currently, only ``main_color`` is available. This will be the color usted for most of the elements of your page.
+Currently, only ``main_color`` is available. This will be the color used for most of the elements of your page.
 
 # Can I use this data?
 
