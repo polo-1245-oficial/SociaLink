@@ -3,12 +3,16 @@
       "identifier":"ailakks",
       "github":"ailakks",
       "about":"Im Ailakks, a 16 years old developer!",
+      "palette":[
+         {
+            "main_color":"#f57364"
+         }
+      ],
       "social":[
          {
             "identifier":"twitter",
             "display_name":"Twitter",
             "description":"Follow me for updates!",
-            "new_page":true,
             "link":"https://twitter.com/Ailakks"
          }
       ]
