@@ -12,7 +12,8 @@
             "identifier": "twitter",
             "display_name": "Twitter",
             "description": "Follow me for updates!",
-            "link": "https://twitter.com/Ailakks"
+            "link": "https://twitter.com/Ailakks",
+            "new_page": true
          }
       ]
    }
