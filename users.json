@@ -1,19 +1,18 @@
 [
    {
-      "identifier":"ailakks",
-      "github":"ailakks",
-      "about":"Im Ailakks, a 16 years old developer!",
-      "palette":[
+      "identifier": "ailakks",
+      "about": "Im Ailakks, a 16 years old developer!",
+      "palette": [
          {
-            "main_color":"#f57364"
+            "main_color": "#f57364"
          }
       ],
-      "social":[
+      "social": [
          {
-            "identifier":"twitter",
-            "display_name":"Twitter",
-            "description":"Follow me for updates!",
-            "link":"https://twitter.com/Ailakks"
+            "identifier": "twitter",
+            "display_name": "Twitter",
+            "description": "Follow me for updates!",
+            "link": "https://twitter.com/Ailakks"
          }
       ]
    }
