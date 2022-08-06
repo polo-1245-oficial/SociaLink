@@ -7,10 +7,6 @@ Simple, just make a pull request adding your profile info into de ``users.json``
 
 ``identifier`` (Unique) An unique identifier that will be the subdomain for your page.
 
-``github`` Your github username, will be used to verify your identity in a future RP editing your profile info.
-
-**This is option but required to be edited in the future!**
-
 ``about`` (Optional) Text displayed above your name in your profile page.
 
 # Social information
