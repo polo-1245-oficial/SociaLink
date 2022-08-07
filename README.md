@@ -21,7 +21,7 @@ You can edit your profile at any time, just make a RP editing the data, and we w
 
 ``link`` The link that will be opened.
 
-``new_page`` (Optional) Should the link opened in a new windows?
+``new_page`` (Optional) Should the link be opened in a new windows?
 
 # Palette
 
