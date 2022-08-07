@@ -16,5 +16,23 @@
             "new_page": true
          }
       ]
+   },
+   {
+      "identifier": "polo_1245",
+      "about": "polo polopro",
+      "palette": [
+         {
+            "main_color": "#eba834"
+         }
+      ],
+      "social": [
+         {
+            "identifier": "twitter",
+            "display_name": "Twitter",
+            "description": "@polo_1245ofi",
+            "link": "https://twitter.com/Polo_1245Ofi",
+            "new_page": true
+         }
+      ]
    }
 ]
