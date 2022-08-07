@@ -1,6 +1,6 @@
 # SociaLink
 
-How to get our personal page?
+How to get your personal page?
 Simple, just make a pull request adding your profile info into de ``users.json`` file. Once done, just wait until a moderator approves your PR and merge it.
 
 You can edit your profile at any time, just make a RP editing the data, and we will check the RP was made by the same Github account that did the first RP/last edit in order to accept it.
